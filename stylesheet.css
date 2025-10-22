@@ -17,7 +17,7 @@
     width:114px;
 }
 .logo{
-    background-image: url(Amazon-Emblem.jpg);
+    background-image: url(project_images/Amazon-Emblem.jpg);
     background-size: cover;
     height:50px;
     width:114px; 
@@ -85,7 +85,7 @@
     background-color: black;
 }
 .country-logo{
-    background-image: url(usa-flag-icon-free-vector.jpg);
+    background-image: url(project_images/usa-flag-icon-free-vector.jpg);
     background-size: cover;
     height:18px;
     width:24px;
@@ -133,7 +133,7 @@ span{
 }
 /**hero-section**/
 .hero-section{
-    background-image: url("back2.jpg");
+    background-image: url("project_images/back2.jpg");
     background-size: cover;
     height:350px;
     display:flex;
@@ -187,4 +187,67 @@ span{
     font-size:13px;
 }
 
+/**footer**/
+footer{
+    margin-top:20px;
+}
+.foot_panel{
+    background-color: #37475a;
+    color:white;
+    height:50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size:1rem;
+}
 
+.foot_panel2{
+    background-color: #222f3d;
+    color:white;
+    height:500px;
+    display:flex;
+    justify-content: space-evenly;
+
+
+}
+ul{
+    margin-top:20px;
+}
+ul a{
+    display:block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color:#dddddd;
+}
+.foot_panel3{
+    background-color: #222f3d;
+    color:white;
+    border-top: 0.5px solid white;
+    height:70px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.lo{
+     background-image: url(project_images/Amazon-Emblem.jpg);
+    background-size: cover;
+    height:50px;
+    width:100px;
+}
+.foot_panel4{
+    background-color: #0f1111;
+    color:white;
+    height:80px;
+    font-size:0.7rem;
+    text-align:center;
+    
+}
+.pages{
+  
+    padding-top:25px;
+}
+.copyright{
+    padding-top:5px;
+    
+   
+}
